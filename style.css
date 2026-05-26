@@ -55,7 +55,7 @@ ul {
   transition: transform 0.2s ease;
   transition: background-color 0.2s ease;
   transition: color 0.2s ease;
-  border: 2px solid transparent;
+  border: 2px solid;
   text-align: center;
 }
 .btn-primary {
@@ -108,7 +108,7 @@ ul {
   color: #a0a0a0;
   font-size: 15px;
   padding: 8px 0;
-  border-bottom: 2px solid transparent;
+  border-bottom: 2px solid;
   transition: color 0.2s ease;
   transition: border-color 0.2s ease;
 }
